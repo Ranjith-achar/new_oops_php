@@ -27,4 +27,5 @@ $sample-obj->methodname();
 
 */
 $sampleobj=new example;
+$sampleobj->sayhello();
 ?>
