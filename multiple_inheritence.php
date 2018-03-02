@@ -1,10 +1,9 @@
 <?php
 class one{
 //upper claas 1
-
 public function a(){
+echo "inside first class";
 
-  echo "inside first class";
 }
 
 
