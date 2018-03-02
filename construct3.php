@@ -25,18 +25,8 @@ echo $this->name=$argument;
 
 }
 
-
-
-
 }
-
-
 //creating object
-
-$object=new example("values is passed"); //passed value directly 
-
-
-
-
+$object=new example("values is passed"); //passed value directly
 
 ?>
