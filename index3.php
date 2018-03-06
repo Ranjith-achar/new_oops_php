@@ -14,6 +14,6 @@ echo $obj->name;
 
 //var_dump($obj);
 
-
+//accesing variable value using object
 
 ?>
